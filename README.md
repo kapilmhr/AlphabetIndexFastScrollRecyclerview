@@ -39,7 +39,7 @@ dependencies {
 Step 2: implement SectionIndexer to RecyclerViewAdapter.
 ``` java
 
-public class DataAdapter extends RecyclerView.Adapter<DataAdapter.MyHolder> implements SectionIndexer,Comparable{
+public class DataAdapter extends RecyclerView.Adapter<DataAdapter.MyHolder> implements SectionIndexer{
     List<Data> dataList;
     private ArrayList<Integer> mSectionPositions;
 
