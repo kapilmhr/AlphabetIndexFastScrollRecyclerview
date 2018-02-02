@@ -1,9 +1,6 @@
 # AlphabetIndexFastScrollRecyclerview
 This is android alphabet Index fastscroll (very smooth) Recycler View
 
-![alt text](https://github.com/kapilmhr/AlphabetIndexFastScrollRecyclerview/blob/master/snapshots/mygif2.gif)
-
-
 ### Follow these steps to use this library:
 #### In build.gradle (Project)
 
